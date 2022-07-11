@@ -1,4 +1,4 @@
-# webGameQuake
+# Web Game Quake
 
 
-https://docs.unity3d.com/Manual/webgl-server-configuration-code-samples.html
+![image](2022-07-11_14-40-09.png)
